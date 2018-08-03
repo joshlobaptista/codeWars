@@ -2,7 +2,6 @@
 
 function opposite(number) {
   //your code here
-  let number2 = number - number * 2;
-  return number2
+  return -(number)
 
 }
